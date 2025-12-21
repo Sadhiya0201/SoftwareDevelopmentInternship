@@ -1,0 +1,56 @@
+🏴‍☠️ Welcome to the Treasure Escape Challenge!
+You are trapped inside a mysterious cave with 3 tunnels.
+One tunnel has treasure 💰
+One tunnel has a monster 👹
+One tunnel leads to the exit 🔓
+Choose carefully... your fate depends on it!
+
+Choose a tunnel (1, 2, or 3): 3
+
+You slowly walk inside tunnel 3 ...
+🔓 You found the hidden escape route! You safely exit the cave. Well done!
+
+Game Over.
+
+Do you want to play again? (y/n): y
+🏴‍☠️ Welcome to the Treasure Escape Challenge!
+You are trapped inside a mysterious cave with 3 tunnels.
+One tunnel has treasure 💰
+One tunnel has a monster 👹
+One tunnel leads to the exit 🔓
+Choose carefully... your fate depends on it!
+
+Choose a tunnel (1, 2, or 3): 2
+
+You slowly walk inside tunnel 2 ...
+🔓 You found the hidden escape route! You safely exit the cave. Well done!
+
+Game Over.
+
+Do you want to play again? (y/n): y
+🏴‍☠️ Welcome to the Treasure Escape Challenge!
+You are trapped inside a mysterious cave with 3 tunnels.
+One tunnel has treasure 💰
+One tunnel has a monster 👹
+One tunnel leads to the exit 🔓
+Choose carefully... your fate depends on it!
+
+Choose a tunnel (1, 2, or 3): 1
+
+You slowly walk inside tunnel 1 ...
+💰 Congratulations! You found a huge treasure chest! You win!
+
+Game Over.
+
+Do you want to play again? (y/n): 1
+Thanks for playing the Treasure Escape Challenge! Goodbye 👋
+
+C:\Users\Sadhiya\OneDrive\Desktop\Level1>python Task-1.py
+🏴‍☠️ Welcome to the Treasure Escape Challenge!
+You are trapped inside a mysterious cave with 3 tunnels.
+One tunnel has treasure 💰
+One tunnel has a monster 👹
+One tunnel leads to the exit 🔓
+Choose carefully... your fate depends on it!
+
+Choose a tunnel (1, 2, or 3):
